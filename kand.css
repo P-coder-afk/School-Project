@@ -1,0 +1,106 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body{
+   background-color:coral;
+   background-size:cover;
+   background-position: center;
+   height: 100px;
+   width:100px;
+   overflow-x: hidden;
+  }
+
+  .balkand{
+    margin-top: 50px;
+    margin-left: 550px;
+  }
+
+  .balkand p{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    font-style: bold;
+    justify-content: center;
+    padding-left: 170px;
+  }
+
+  .ayodhyakand{
+    margin-top: 50px;
+    margin-left: 550px;
+  }
+
+  .ayodhyakand p{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    font-style: bold;
+    justify-content: center;
+    padding-left: 170px;
+  }
+
+  .aranyakand{
+    margin-top: 50px;
+    margin-left: 550px;
+  }
+
+  .aranyakand p{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    font-style: bold;
+    justify-content: center;
+    padding-left: 170px;
+  }
+  
+  .kishkindhakand{
+    margin-top: 50px;
+    margin-left: 550px;
+  }
+
+  .kishkindhakand p{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    font-style: bold;
+    justify-content: center;
+    padding-left: 170px;
+  }
+
+  .sunderkand{
+    margin-top: 50px;
+    margin-left: 550px;
+  }
+
+  .sunderkand p{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    font-style: bold;
+    justify-content: center;
+    padding-left: 170px;
+  }
+
+  .yuddhkand{
+    margin-top: 50px;
+    margin-left: 550px;
+  }
+
+  .yuddhkand p{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    font-style: bold;
+    justify-content: center;
+    padding-left: 170px;
+  }
+
+  .uttarakand{
+    margin-top: 50px;
+    margin-left: 550px;
+  }
+
+  .uttarakand p{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    font-style: bold;
+    justify-content: center;
+    padding-left: 170px;
+  }
+
+

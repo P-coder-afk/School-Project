@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body{
+    background: url(bg.jpg);
+    background-size:cover ;
+    background-position:center;
+    height: 100vh;
+    width:100%;
+    overflow-x: hidden;
+  }
+
+  .begin{
+      color:rgb(241, 54, 7);
+      padding-top: 370px;
+  }
+
+  .mainbtn{
+      margin-top: -130px;
+      margin-left:1090px ;
+      opacity:0.5;
+  }
+
+  .mainbtn:hover{
+    opacity: 1;
+  }
